@@ -6,3 +6,5 @@ Repository for slide decks of public talks I've given.
   * https://www.youtube.com/watch?v=elA_eiqWefw 
 * [Defeating Node.js Malware Through API Tracing - Botconf 2026](https://github.com/eversinc33/Talks/blob/main/botconf.odp)
   * https://www.youtube.com/watch?v=ai4RcU48AAE&t=678s
+  * https://www.youtube.com/watch?v=biV2jZL1ByA
+ * [Spec Driven Malware: Turning markdown into threats](./Spec Driven Malware Development_ Turning Markdown into Threats (1).pdf)
